@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imagens/fundo.jpg</file>
+        <file>../../../../../Downloads/olho-fechado.png</file>
+        <file>../../../../../Downloads/olho-aberto.png</file>
+        <file>../../../../../Downloads/carrinho_com_fundo-removebg-preview__1__cropped-removebg-preview.png</file>
+        <file>imagens/carrinho_com_fundo-removebg-preview (1)_cropped.png</file>
+        <file>imagens/add_com_fundo-removebg-preview_cropped-removebg-preview.png</file>
+        <file>imagens/venda_fundo_cropped-removebg-preview.png</file>
+        <file>imagens/Lupa_com_fundo_cropped-removebg-preview.png</file>
+    </qresource>
+</RCC>
